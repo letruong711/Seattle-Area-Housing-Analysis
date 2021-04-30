@@ -54,21 +54,36 @@ For this project, I will be looking at comparing our target variable (sales pric
 
 ### Recommendations
 
+<<<<<<< HEAD
 ![](King_County_Analysis_Images/Average House Price per Month.png)
 ![](King_County_Analysis_Images/Bar Graph Average Price.png)
 
 Our first figure shows us that housing costs varies per month but they're going to be roughly around $500,000 - $600,000 dollars. Our second figure shows us the best time to buy is going to be around February. The average price of homes sold in Feburary is around $555,000. The worst time to buy is during spring and summer as the average prices of sold in April, May, and June are around $600,000.
 
 ![](King_County_Analysis_Images/King County in Circles.jpg)
+=======
+![](King County Analysis Images/Average House Price per Month.png)
+![](King County Analysis Images/Bar Graph Average Price.png)
+
+Our first figure shows us that housing costs varies per month but they're going to be roughly around $500,000 - $600,000 dollars. Our second figure shows us the best time to buy is going to be around February. The average price of homes sold in Feburary is around $555,000. The worst time to buy is during spring and summer as the average prices of sold in April, May, and June are around $600,000.
+
+![](King County Analysis Images/King County in Circles.jpg)
+>>>>>>> 062cbc946d5c35eddae7e6a006ad813232bcf8f9
 
 This figure shows prices, age of the home, and locational data with bubble size representing price and colors representing when the house was built. It shows us location is correlated with your sales price. In general, buying a house north of the 47.5 latitude will be much more expensive than buying a house south of that latitude. Houses in the south of that latitude are substantially cheaper. 
 
 
 ### Number of Bathrooms, Grades, and Living Space
 
+<<<<<<< HEAD
 ![](King_County_Analysis_Images/Bathrooms and Price.png)
 ![](King_County_Analysis_Images/Grade and Price.png)
 ![](King_County_Analysis_Images/Sqft Living and Price.png)
+=======
+![](King County Analysis Images/Bathrooms and Price.png)
+![](King County Analysis Images/Grade and Price.png)
+![](King County Analysis Images/Sqft Living and Price.png)
+>>>>>>> 062cbc946d5c35eddae7e6a006ad813232bcf8f9
 
 We started our analysis of these features with comparing bathrooms to the sales price.
 1. We found a low R-Squared Value of 20%. This makes sense as there's only a certain number of bathrooms you can have in a home. 
@@ -107,4 +122,8 @@ We need to look deeper into other factors that play a role in housing price.
    - Do people who live in specific areas increase the price of houses in that area?
 2. Other aspects of a home: include bathrooms, is it in near the water?, downtown versus suburbs?
 3. Use a more recent time frame or a longer time frame. 
+<<<<<<< HEAD
    - It is important to see if there are trends in data.
+=======
+   - It is important to see if there are trends in data.
+>>>>>>> 062cbc946d5c35eddae7e6a006ad813232bcf8f9
