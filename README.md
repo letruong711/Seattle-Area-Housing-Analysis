@@ -54,7 +54,7 @@ For this project, I will be looking at comparing our target variable (sales pric
 
 ### Recommendations
 
-![](King_County_Analysis_Images/AverageHousePricePerMonth.png)
+![](King_County_Analysis_Images/AverageHousePriceperMonth.png)
 ![](King_County_Analysis_Images/BarGraphAveragePrice.png)
 
 Our first figure shows us that housing costs varies per month but they're going to be roughly around $500,000 - $600,000 dollars. Our second figure shows us the best time to buy is going to be around February. The average price of homes sold in Feburary is around $555,000. The worst time to buy is during spring and summer as the average prices of sold in April, May, and June are around $600,000.
