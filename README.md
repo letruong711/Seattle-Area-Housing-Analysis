@@ -54,8 +54,8 @@ For this project, I will be looking at comparing our target variable (sales pric
 
 ### Recommendations
 
-!(King_County_Analysis_Images/AverageHousePricePerMonth.png)
-!(King_County_Analysis_Images/BarGraphAveragePrice.png)
+![](King_County_Analysis_Images/AverageHousePricePerMonth.png)
+![](King_County_Analysis_Images/BarGraphAveragePrice.png)
 
 Our first figure shows us that housing costs varies per month but they're going to be roughly around $500,000 - $600,000 dollars. Our second figure shows us the best time to buy is going to be around February. The average price of homes sold in Feburary is around $555,000. The worst time to buy is during spring and summer as the average prices of sold in April, May, and June are around $600,000.
 
@@ -67,9 +67,9 @@ This figure shows prices, age of the home, and locational data with bubble size 
 
 ### Number of Bathrooms, Grades, and Living Space
 
-!(King_County_Analysis_Images/BathroomsandPrice.png)
-!(King_County_Analysis_Images/GradeandPrice.png)
-!(King_County_Analysis_Images/SqftLivingandPrice.png)
+![](King_County_Analysis_Images/BathroomsandPrice.png)
+![](King_County_Analysis_Images/GradeandPrice.png)
+![](King_County_Analysis_Images/SqftLivingandPrice.png)
 
 We started our analysis of these features with comparing bathrooms to the sales price.
 1. We found a low R-Squared Value of 20%. This makes sense as there's only a certain number of bathrooms you can have in a home. 
